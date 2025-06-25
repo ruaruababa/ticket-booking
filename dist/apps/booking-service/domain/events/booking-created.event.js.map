@@ -1,0 +1,1 @@
+{"version":3,"file":"booking-created.event.js","sourceRoot":"","sources":["../../../../../apps/booking-service/src/domain/events/booking-created.event.ts"],"names":[],"mappings":";;;AAAA,MAAa,mBAAmB;IAC9B,YACkB,SAAiB,EACjB,MAAc,EACd,OAAe;QAFf,cAAS,GAAT,SAAS,CAAQ;QACjB,WAAM,GAAN,MAAM,CAAQ;QACd,YAAO,GAAP,OAAO,CAAQ;IAC9B,CAAC;CACL;AAND,kDAMC"}
