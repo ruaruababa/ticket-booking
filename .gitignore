@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/build
+/logs
+/tmp
+/public
+/uploads
+/uploads/images
+/uploads/videos
+/uploads/audio
+/uploads/documents
